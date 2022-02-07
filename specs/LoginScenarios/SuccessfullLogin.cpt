@@ -1,0 +1,10 @@
+# User Clicks On Login Button And Checks The Login Page Opened Successfully
+
+*User Navigates To Otrium
+*Check The HomePage Opened Successfully
+*User sees Login Button on the page
+*User Clicks On Login Button
+*Check The Login Page Opened Successfully
+
+# User Fills Credentials Correctly
+*User Tries To Login With Correct Credentials
