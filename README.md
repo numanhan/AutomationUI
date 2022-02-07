@@ -33,4 +33,4 @@
 - or check : https://docs.gauge.org/getting_started/installing-gauge.html?os=macos&language=javascript&ide=vscode
 
 # About
-- Gauge is a framework produced by thoughtworks that allows us to write BDD type test cases. Although there is support for more than one language, it allows us to report our tests such as html-report, XML Report.
+- Gauge is a framework produced by thoughtworks that allows us to write BDD type test cases. Although there is support for more than one language, it allows us to report our tests such as html-report, XML Report. While running our UI tests, Cucumber etc. In addition to frameworks such as Gauge, it also provides us convenience in terms of speed and reusability. 
