@@ -21,8 +21,7 @@
 - Have a JDK installation on your system. Either set the ```JAVA_HOME``` environment variable pointing to your JDK installation or have the java executable on your ```PATH```.
 - Extract distribution archive in any directory ``` unzip apache-maven-3.8.4-bin.zip ``` or  ``` tar xzvf apache-maven-3.8.4-bin.tar.gz ```
 - Add the bin directory of the created directory apache-maven-3.8.4 to the PATH environment variable.
--  
-``` Apache Maven 3.8.4 (9b656c72d54e5bacbed989b64718c159fe39b537)
+-  ``` Apache Maven 3.8.4 (9b656c72d54e5bacbed989b64718c159fe39b537)
     Maven home: /opt/apache-maven-3.8.4
     Java version: 1.8.0_45, vendor: Oracle Corporation
     Java home: /Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre
